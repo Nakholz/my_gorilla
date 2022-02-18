@@ -1,20 +1,20 @@
-#My_GORILLA
+# My_GORILLA
 
-###Pour simplement lancer et tester l'application vous pouvez utiliser le lien expo :
+### Pour simplement lancer et tester l'application vous pouvez utiliser le lien expo :
 
-###Pour lancer le projet en Dev :
+### Pour lancer le projet en Dev :
 
-⋅⋅* il vous faut tout d'abbord le cli expo :
+⋅⋅* Installer le CLI expo :
 ```console
 npm install --global expo-cli
 ```
 
-⋅⋅* puis installer le projet :
+⋅⋅* Installer le projet :
 ```console
 npm install
 ```
 
-⋅⋅* enfin lancer projet :
+⋅⋅* Démarrer le projet :
 ```console
 expo start
 ```
